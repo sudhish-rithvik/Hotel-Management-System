@@ -1,3 +1,5 @@
+HOTEL MANAGMENT SYSTEM
+
 The Hotel Management System is about managing guests in a hotel .It allows you to easily manage the rooms available in the hotel and track the records of the customers who all have checked in and checked out .It is very useful in large hotels as they can keep a keen eye on the rooms and customers using this. Checking in and Checking out are simple and their data is stored for further uses.
 
 In the past the hotel management system doesn't store any record of rooms and the data of guests were not well organized it was so hard to use them .In the current hotel management system those problem are rectified and it keeps keen eye on the record of the guests ..They were unable to generate the bill in older versions of this. Currently the hotel management system allows the user to view the name, details of the gueat staying in each room.
