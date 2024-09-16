@@ -1,16 +1,21 @@
-HOTEL MANAGMENT SYSTEM
+The Hotel Management System is designed to streamline the workflow of hotel staff, enhance guest services, and provide a centralized platform for managing all hotel-related operations. The use of Tkinter ensures a visually appealing and intuitive user interface, while SQL ensures a robust and scalable database structure for data management. This project is ideal for those seeking to contribute to the hospitality industry by providing a flexible and efficient solution for hotel management.
 
-The Hotel Management System is about managing guests in a hotel .It allows you to easily manage the rooms available in the hotel and track the records of the customers who all have checked in and checked out .It is very useful in large hotels as they can keep a keen eye on the rooms and customers using this. Checking in and Checking out are simple and their data is stored for further uses.
+1)Login Form:Secure login system for authorized access to the HMS.
 
-In the past the hotel management system doesn't store any record of rooms and the data of guests were not well organized it was so hard to use them .In the current hotel management system those problem are rectified and it keeps keen eye on the record of the guests ..They were unable to generate the bill in older versions of this. Currently the hotel management system allows the user to view the name, details of the gueat staying in each room.
+2)Hotel Status:Real-time display of the hotel's status, providing an overview of occupancy and available rooms.
 
-In the past there were no options for the user to view the entire room and the guests at once .In current Hotel Management System options are given to see the entire list of guests and search the room they are looking for. They are also given options to locate the current vacancy of the rooms in the hotel ..Also a option is given for selecting the type of search the user wants to find of a guests who has checked in the hotel.
+3)Room Availability:Dynamic tracking of the number of rooms available, facilitating efficient room allocation.
 
-In the Past adding a new guests and viewing the information of them was very hand and is not rectified with the verision .In the past there were many troubles in putting entry for contact numbers ,verification proof the guest ,adding new guests ,deleting a guest ,editing the details of each guest because the old hotel management system was using text file for storing data and in the current hotel management system it was upgraded to mysql database which stores every data properly and organises every data .Adding,deleting and editing a data is convenient in MySQL database.In the current hotel management system it  accesses the database without any trouble.
+4)Guests Data:Storage and management of guest information, including personal details and check-in/check-out dates.
 
-Menu:
-1. login system
-2. Customer 
-3. Room Booking
-4. Details
-5. Logout 
+5)Room Types:Categorization of rooms based on types (e.g., standard, deluxe, suites) with corresponding features and rates.
+
+6)Room Data:Detailed information on each room, such as room number, type, status, and current occupant.
+
+7)Room Service Info:Record and manage room service requests and expenses, enhancing guest experience.
+
+8)Reservations:Seamless reservation system allowing for advance booking and scheduling of rooms.
+
+9)PaymentS:Integration of a secure payment gateway for handling transactions, ensuring a smooth and reliable payment process.
+
+10)Data Organization:Efficient organization and retrieval of data using SQLite database for scalability and data integrity.
